@@ -1,0 +1,309 @@
+h1 {
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 110px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    
+    color: #000000;
+}
+#f1 {
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 243px;
+    top: 244.5px;
+    
+    
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+#f2 {
+    position: absolute;
+    width: 305.21px;
+    height: 471px;
+    left: 534.64px;
+    top: 396px;
+}
+#f3{
+    position: absolute;
+    width: 300.81px;
+    height: 399.96px;
+    left: 863.54px;
+    top: 330px;
+}
+#f4{
+    position: absolute;
+    width: 276.68px;
+    height: 469px;
+    left: 241px;
+    top: 760px;
+}
+#f5{
+    position: absolute;
+    width: 274.36px;
+    height: 360px;
+    left: 534.64px;
+    top: 944px;  
+}
+#f6{
+    position: absolute;
+    width: 335.75px;
+    height: 449px;
+    left: 864.69px;
+    top: 796px;
+}
+
+#bill{
+    
+   
+
+    position: absolute;
+width: 117px;
+height: 27px;
+left: 240px;
+top: 686px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+
+
+
+color: #000000;
+
+
+
+color: #000000;
+}
+#saba{
+    position: absolute;
+width: 128px;
+height: 27px;
+left: 571px;
+top: 791px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;  
+}
+#shae{
+    position: absolute;
+    width: 70px;
+    height: 27px;
+    left: 901px;
+    top: 686px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px; 
+    
+}
+#skylah{
+    position: absolute;
+    width: 86px;
+    height: 27px;
+    left: 241px;
+    top: 1201px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px; 
+}
+#griff{
+    position: absolute;
+    width: 124px;
+    height: 27px;
+    left: 571px;
+    top: 1306px;
+
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+    
+    
+}
+#stan{
+    position: absolute;
+    width: 92px;
+    height: 27px;
+    left: 902px;
+    top: 1201px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px; 
+}
+
+#product{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 460px;
+    top: 330px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+
+}
+#art{
+    position: absolute;
+    width: 85px;
+    height: 16px;
+    left: 825px;
+    top: 429px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+#tech{
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1165px;
+    top: 330px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+#ux{
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 504px;
+    top: 845px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+
+}
+#dev1{
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 835px;
+    top: 944px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+
+
+}
+#dev2{
+    position: absolute;
+    width: 76px;
+    height: 16px;
+    left: 1165px;
+    top: 845px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+#st {
+    position: absolute;
+width: 439px;
+height: 87px;
+left: 736px;
+top: 147px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+color: #000000;
+
+}
+#who {
+    position: absolute;
+    width: 130px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000; 
+}
+
